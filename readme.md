@@ -8,7 +8,7 @@ The purpose of this project is to verify that my development environment is corr
 
 
 ## Software Demo Video
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/48d6516f9e5d47fcbc4430e1636abd75)
 
 # Development Environment
 
