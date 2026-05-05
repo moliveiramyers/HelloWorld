@@ -1,23 +1,26 @@
 # Overview
  
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+## Description
+This program is a simple "Hello World" application written in Python (hello.py). It prints a message to the console to demonstrate a basic working development environment.
 
-{Provide a description of your software}
+## Purpose
+The purpose of this project is to verify that my development environment is correctly set up and that I can create, run, and upload code to GitHub.
 
-{Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
+## Software Demo Video
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+- Python 3
+- Visual Studio Code
+- Git & GitHub
 
-{Describe the programming language that you used}
 
-# Useful Websites
+# Python
+I used Python as the programming language for this project. Python is a high-level, easy-to-read language that is widely used for beginners and professionals. It allows developers to write simple and clear code, which makes it a good choice for learning basic programming concepts like printing output to the console.
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+## Useful Websites
+- https://www.python.org/
+- https://code.visualstudio.com/
+- https://github.com/
